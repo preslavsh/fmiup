@@ -1,0 +1,41 @@
+1 периметър, обем, лице на фигура
+2 размяна на стойностите
+3 напишете със символи буква с о-та
+пример H
+0   0
+0   0
+00000
+0   0
+0   0
+4 реалзиране на скобка х задача, реално oт double чрез floor към int
+5 изрази: a + b*c - a2b3c4 а*b/c + c/a*b
+6 критерии за кратност на число
+7 type casting
+int to bool, char, float, double, short int, long int, unsidgned int
+bool  etc
+float to etc
+double to etc
+char to etc
+8 math.h integrated functions
+
+Sin(x) - синус, sin x, x е в радиани
+cos(x) - косинус, cos x, x е в радиани
+tan(x) - тангенс, tg x, x е в радиани
+аSin(x) - аркуссинус, arcsin 
+аcos(x)
+аtan(x) - аркустангенс, arctg x  (-/2, /2)
+exp(x) - експонента, e x
+log(x) - натурален логаритъм, ln x, x > 0
+log10(x) - десетичен логаритъм, lg x, x > 0
+sinh(x) - хиперболичен синус, sh x
+cosh(x) - хиперболичен косинус, ch x
+tanh(x) - хиперболичен тангенс, th x
+ceil(x) - ([x]+1), преобразувано в тип double
+floor(x) - [x], преобразувано в тип double
+fabs(x) - абсолютна стойност на x, |x|
+sqrt(x) - корен квадратен от x, x  0
+pow(x, n) - степенуване, x n (x и n са реални от тип double).
+
+9 playing with operators
+10 манхатън дистанция, евклидово растояние
+11 деление на дадено число с точност 
