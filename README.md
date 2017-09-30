@@ -5,8 +5,8 @@ The course consist of the following topics
 - intro
 - variables + operations
 - conditional statements
-- loop
+- loops
 - arrays
-- char
-- pointers
 - functions
+- pointers
+- char
