@@ -12,6 +12,13 @@ to get the book directly translated to bulgarian, virtual machine languadge
 is like to get a translator who translates the book from english to bulgarian
 in real time.
 
+## Use of c++?
+
+- game development ( logic and interfaces, engines)
+- 3D rendering 
+- firmware ( low level software for hardware: circuit boards)
+- software, which needs speed and doesn't have a lot of resources
+ 
 ## What are we going to use?
 
 - Visual Studio 
@@ -29,6 +36,7 @@ main.cpp
 	using namespace std;
 	
 	int main(){
+		cout << "Hello World" << endl;
 		return 0;
 	}
 ```
@@ -43,6 +51,8 @@ main.cpp
 - what is object file?
 	
 - what is namespace?
+
+- cout; iostream
 
 ## How compiler works?
 - preprocessing
