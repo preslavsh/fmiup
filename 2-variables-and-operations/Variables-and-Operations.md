@@ -8,15 +8,11 @@
 ## Varibles
 Naming a piece of memory, so we can easily write and read from it.
 
-## Variable types, size, values and binary representation
-- boolean 
+## Binary system
 
-```
-       bool a = true;
-       bool a = 1;
-       bool b = false;
-       bool b = 0;
-```
+## Variable types, size, values and binary representation
+
+- sizeof
 
 - integer
 
@@ -31,6 +27,15 @@ Naming a piece of memory, so we can easily write and read from it.
 ```
 	float b = 1.5f;
 	double b = 1.5;
+```
+
+- boolean 
+
+```
+       bool a = true;
+       bool a = 1;
+       bool b = false;
+       bool b = 0;
 ```
 
 - char 

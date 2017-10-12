@@ -24,6 +24,7 @@ in real time.
 - Visual Studio 
 - Codeblocks
 - .NET framework for Windows
+- .NET core
 - gcc for Linux
 - IDE vs Editor
 
@@ -31,7 +32,7 @@ in real time.
 main.cpp
 
 ```
-	include<iostream>
+	#include<iostream>
 	
 	using namespace std;
 	
