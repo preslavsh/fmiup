@@ -66,3 +66,21 @@ main.cpp
 - compilation and the generated binary files (object and executables)
 - preprocessed file
 - assembly instructions in generated files
+
+### Example GCC
+
+```
+gcc -o intro intro.cpp // makes executable
+gcc -c intro.cpp // makes binary object file with extension o
+gcc -E intro.cpp > intro.o // makes preprocessed file object file
+gcc -Wall -S intro.cpp // makes assembly preprocessed file extension .s 
+
+```
+
+### Example Visual Studio .NET
+
+- by buiding your project by default you generate .obj file and .exe file in the Debug folder
+
+- try this link for seeing the preprocessed file [Link to MS VS 2017 Preprocessed file documentation](https://l.facebook.com/l.php?u=https%3A%2F%2Fmsdn.microsoft.com%2Fen-us%2Flibrary%2F8z9z0bx6.aspx&h=ATMuViS33G8pSeqr6Tjsqt_EXdsJXsxYZT56aMY79582dbDRoDB4A3IRjJ5s3RKZtpTT8ES-Ph1WEnMLroZpr-nuf-3DE8GfJvglP7R2oH-YTX1e-hK10BdLQZFnp0lnFxC6jFyz4-uCq7Zwqx3j_A) 
+
+- to do assembly
