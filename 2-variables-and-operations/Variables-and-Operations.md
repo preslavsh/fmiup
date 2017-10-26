@@ -22,6 +22,7 @@ Naming a piece of memory, so we can easily write and read from it.
 	long long a = 10;
 ```
 
+- double numbers binary conversion ( mantissa, base, exponent)
 - double and float
 
 ```
@@ -71,7 +72,7 @@ Naming a piece of memory, so we can easily write and read from it.
 
 - const and global variables
 
-- type casting
+- type casting, static cast, dynamic cast
 
 
 ``` 
@@ -88,5 +89,9 @@ Naming a piece of memory, so we can easily write and read from it.
 - +, -, =, *, /, %
 
 - ++, --, +=, *= 
+
+- math.h
+
+- numerical systems ( hex, oct)
 
 - abs, dec, hex, oct, sin, cos, tan, asin, acos, log, log10, floor, ceil, sqrt, pow
