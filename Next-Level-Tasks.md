@@ -12,16 +12,18 @@
 
 7 Merge Sort
 
-8 BFS
+8 Heap Sort
 
-9 DFS
+9 BFS
 
-10 Dijkstra's algorithm
+10 DFS
 
-11 AStar
+11 Dijkstra's algorithm
 
-12 Flood-Fill
+12 AStar
 
-13 Minimum Spanning Tree
+13 Flood-Fill
 
-14 NQueens - min conflict algorithm
+14 Minimum Spanning Tree
+
+15 NQueens - min conflict algorithm
