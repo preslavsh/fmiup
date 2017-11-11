@@ -3,9 +3,12 @@
 #include<cmath>
 using namespace std;
 
-int main(){
-    int a, b;
-    cin >> a >> b;
-    cout << (a + b - abs(a-b))/2 << endl;
+int main() {
+    int number, fact = 1;
+    cin >> number;
+    for(int i = number; i > 0; i--){
+        fact = fact * i;
+    }
+    cout << fact << endl;
     return 0;
 }
